@@ -1,16 +1,5 @@
-Welcome to my personal portfolio! 
-
-## About Me
-QA Engineer
-
-## Repositories
-- Robot Framework :
-  - [Browser Library](https://github.com/ahmadazerichandrabhuana/robotframeworkbrowser)
-  - [Selenium Library](https://github.com/ahmadazerichandrabhuana/robotframeworkselenium)
-  - Android (Appium Library)
-  - iOS (Appium Library)
-  - Request Library
-  - All in One
+## My GitHub Repositories Summary
+- Robot Framework ([Browser Library](https://github.com/ahmadazerichandrabhuana/robotframeworkbrowser), [Selenium Library](https://github.com/ahmadazerichandrabhuana/robotframeworkselenium), [Android (Appium Library)](https://github.com/ahmadazerichandrabhuana/robotframeworkandroid), [iOS (Appium Library)](https://github.com/ahmadazerichandrabhuana/robotframeworkios), [API Test (Request Library)](https://github.com/ahmadazerichandrabhuana/robotframeworkapi), [All in One](https://github.com/ahmadazerichandrabhuana/robotframeworkonering).
 - WebdriverIO
   - Web
   - Android
