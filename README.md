@@ -3,10 +3,23 @@ Welcome to my personal portfolio!
 ## About Me
 QA Engineer
 
-## Skills
-- Robot Framework : Browser Library, Selenium Library, Appium Library, and Request Library
-- WebdriverIO : Web & Mobile Apps Automation
-- Java (Maven) : Playwright, Selenium, and Appium
+## Repositories
+- Robot Framework :
+  - [Browser Library](https://github.com/ahmadazerichandrabhuana/robotframeworkbrowser)
+  - [Selenium Library](https://github.com/ahmadazerichandrabhuana/robotframeworkselenium)
+  - Android (Appium Library)
+  - iOS (Appium Library)
+  - Request Library
+  - All in One
+- WebdriverIO
+  - Web
+  - Android
+  - iOS
+- Java (Maven)
+  - Playwright
+  - Selenium
+  - Android
+  - iOS
 - Locust
 - Postman
 - Maestro by mobile.dev
