@@ -1,4 +1,3 @@
-# Ahmad Azeri Chandra Bhuana
 Welcome to my personal portfolio! 
 
 ## About Me
